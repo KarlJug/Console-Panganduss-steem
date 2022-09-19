@@ -1,3 +1,3 @@
 # Console-Panganduss-steem
 
-Cpp koolituse lõppu töö
+Cpp koolituse lõpputöö
