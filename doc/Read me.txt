@@ -1,0 +1,7 @@
+Pangandussüsteem
+
+Kuidas installida-
+unzip fail. kaustas bin on exe fail nimega “Pangandussüsteem”, see on põhi programm.
+
+Kuidas kasutada -
+Kõigepealt peab kasutaja looma. Selleks sisesta number kaks, siis programm küsib eesnime, perekonnanime ja parooli mida peab kaks korda sisestama. Peale seda programm näitab sulle tehtud kasutaja tunnust millega sa logid sisse nime asemel. Kui kasutaja on tehtud siis saab sisse logida. Selleks sisesta number üks. Nüüd programm küsib teiekäest kasutaja tunnust ja parooli. Kui oled sisestanud õige kasutajatunnuse ja parool, logib programm teid sisse. Nüüd on võimalus saata raha, vaadata mis teie rahaga on toimunud, raha sisestada, seaded muuta ja välja logida. Et raha saata peab kõigepealt raha sisestama, selleks sisesta number kolm, siis küsitakse kui palju raha soovite sisestada. Nüüd kui kontol raha on, saad saata seda teistele kasutajatele kui teised kasutajad on tehtud. Selleks sisesta teise konto täisnimi ja siis küsitakse selle konto arveldusarve kui need sisestatud siis tuleb summa sisestada mis on suurem kui 1 euro. Ja kui kõik on õige siis saadab see raha teise kontosse.
